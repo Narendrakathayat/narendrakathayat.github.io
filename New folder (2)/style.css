@@ -1,0 +1,22 @@
+header{
+	font-size: 25px;
+	font-family: 'Dokdo', cursive;
+	text-align: center;
+}
+p{
+	font-size: 20px;
+}
+main{
+	margin-left: 120px;
+}
+
+.boss{
+	display: block;
+	float: right;
+	width: 20%;
+}
+img{
+	width: 100%;
+
+}
+
